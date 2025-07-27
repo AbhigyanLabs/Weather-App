@@ -18,7 +18,7 @@ With a sprinkle of API magic and clean design, NovaWeather gives you real-time w
 
 ## 📸 Sneak Peek
 
-![Screenshot of Weather App](./screenshots/weather-app.png)
+![Screenshot of Weather App](./images/weather.png)
 
 > *Clear skies or thunderstorms, NovaWeather always delivers with style.*
 
