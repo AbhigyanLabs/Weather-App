@@ -1,4 +1,4 @@
-# ⛅️ NovaWeather — Your Pocket Weather Companion! 🌍
+# ⛅️ Nimbus — Your Pocket Weather Companion! 🌍
 
 Welcome to **NovaWeather**, a sleek, lightweight, and responsive weather app built using **HTML**, **CSS**, and **JavaScript** ☕️⚡  
 With a sprinkle of API magic and clean design, NovaWeather gives you real-time weather updates anytime, anywhere. Just search, click, and boom — instant forecasts! 🌈
